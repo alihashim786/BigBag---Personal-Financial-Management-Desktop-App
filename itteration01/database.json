@@ -1,0 +1,68 @@
+[
+  {
+    "Username": "AmmarKashif",
+    "Email": "ammar@gmail.com",
+    "Password": "84k/Sujd51bXtCywfKH727xCK3Bh1tV+EZ8BA4oz255Wpyzk",
+    "Transactions": [
+      {
+        "Amount": 15000,
+        "Date": "2023-12-05T14:11:09.5511636Z"
+      },
+      {
+        "Amount": 5000,
+        "Date": "2023-12-05T14:13:31.5097708Z"
+      },
+      {
+        "Amount": 5000,
+        "Date": "2023-12-05T14:15:45.4502547Z"
+      },
+      {
+        "Amount": -2000,
+        "Date": "2023-12-05T14:17:12.1329649Z"
+      },
+      {
+        "Amount": -500,
+        "Date": "2023-12-05T14:27:13.8183349Z"
+      },
+      {
+        "Amount": 50000,
+        "Date": "2023-12-05T14:27:34.7094971Z"
+      },
+      {
+        "Amount": -8000,
+        "Date": "2023-12-05T14:29:29.8093074Z"
+      }
+    ],
+    "Budget": 100000
+  },
+  {
+    "Username": "Ali hashim",
+    "Email": "syedalihashim@gmail.com",
+    "Password": "btyK+IOqCEEUF/DUJqc2VJYFJy5SHqYlc3iJBtClt58rc8aj",
+    "Transactions": [
+      {
+        "Amount": -530,
+        "Date": "2024-04-21T14:41:52.3315126Z"
+      },
+      {
+        "Amount": 300,
+        "Date": "2024-04-21T14:43:08.5403931Z"
+      }
+    ],
+    "Budget": 10000
+  },
+  {
+    "Username": "alihashim",
+    "Email": "syed@g.com",
+    "Password": "PtQ52ShzQGt8tILMuu1BFFmCdSRq1iUr1V/K0yLPol1e9ws8",
+    "Transactions": [],
+    "Budget": 0
+  },
+  {
+    "Username": "ayanahmad",
+    "Email": "ayan@gmai.com",
+    "Password": "StvjAtrTsqfhZvyESlTh+54N/IfzL7tuJHYSmj5gtg/JCs/p",
+    "Transactions": [],
+    "Budget": 0
+  }
+]
