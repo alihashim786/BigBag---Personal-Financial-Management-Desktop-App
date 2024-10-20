@@ -64,7 +64,7 @@ BigBag follows a modular design, separating the app into key components:
 ### Diagrams
 
 1. **Class Diagram**:  
-   ![Class Diagram](./Final_Iteration/Diagram_Class.jpg)
+   [Class Diagram](./Final_Iteration/Diagram_Class.jpg)
    
 2. **Use Case Diagram**:  
    ![Use Case Diagram](./Final_Iteration/Diagram_Use_case.png)
