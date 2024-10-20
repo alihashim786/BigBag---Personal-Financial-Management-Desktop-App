@@ -6,7 +6,9 @@ BigBag is a powerful desktop application designed to streamline personal financi
 THERE ARE THREE MAIN FOLDERS : 
 
 **itteration01** : Not included all features but in working form
+
 **itteration02**   Some more features added 
+
 **Final_Iteration**. Final Website with all features mentioned in **[FINAL_REPORT.pdf](./FINAL_REPORT.pdf)**
 
 ## Table of Contents
